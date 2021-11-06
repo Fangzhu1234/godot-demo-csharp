@@ -1,9 +1,0 @@
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.csproj.AssemblyReference.cache
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.AssemblyInfoInputs.cache
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.AssemblyInfo.cs
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.csproj.CoreCompileInputs.cache
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\bin\Debug\Pong with GDScript.dll
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\bin\Debug\Pong with GDScript.pdb
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.dll
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\pong\.mono\temp\obj\Debug\Pong with GDScript.pdb
