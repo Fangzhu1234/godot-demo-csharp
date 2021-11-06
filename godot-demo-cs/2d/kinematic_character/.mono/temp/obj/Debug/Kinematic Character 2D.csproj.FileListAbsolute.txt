@@ -1,9 +1,0 @@
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.csproj.AssemblyReference.cache
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.AssemblyInfoInputs.cache
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.AssemblyInfo.cs
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.csproj.CoreCompileInputs.cache
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\bin\Debug\Kinematic Character 2D.dll
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\bin\Debug\Kinematic Character 2D.pdb
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.dll
-C:\Users\dengf\Documents\GitHub\godot-demo-csharp\godot-demo-cs\2d\kinematic_character\.mono\temp\obj\Debug\Kinematic Character 2D.pdb
