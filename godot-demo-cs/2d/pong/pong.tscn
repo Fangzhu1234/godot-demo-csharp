@@ -90,6 +90,7 @@ shape = SubResource( 4 )
 [node name="Floor" type="Area2D" parent="."]
 position = Vector2( 320, 410 )
 script = ExtResource( 7 )
+_bounce_direction = -1.0
 
 [node name="Collision" type="CollisionShape2D" parent="Floor"]
 position = Vector2( 0, -1 )
