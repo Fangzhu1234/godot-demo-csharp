@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "/home/fdeng/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/fdeng/Projects/godot-demo-csharp/godot-demo-cs/2d/hexagonal_map/Hexagonal Game.csproj",
+      "projectName": "Hexagonal Game",
+      "projectPath": "/home/fdeng/Projects/godot-demo-csharp/godot-demo-cs/2d/hexagonal_map/Hexagonal Game.csproj",
+      "packagesPath": "/home/fdeng/.nuget/packages/",
+      "outputPath": "/home/fdeng/Projects/godot-demo-csharp/godot-demo-cs/2d/hexagonal_map/.mono/temp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/fdeng/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "/home/fdeng/Downloads/Godot_v3.4-beta6_mono_x11_64/GodotSharp": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
