@@ -1,0 +1,8 @@
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/bin/Debug/Isometric Game.dll
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/bin/Debug/Isometric Game.pdb
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/obj/Debug/Isometric Game.csprojAssemblyReference.cache
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/obj/Debug/Isometric Game.AssemblyInfoInputs.cache
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/obj/Debug/Isometric Game.AssemblyInfo.cs
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/obj/Debug/Isometric Game.csproj.CoreCompileInputs.cache
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/obj/Debug/Isometric Game.dll
+/home/fdeng/Projects/godot-demo-projects/2d/isometric/.mono/temp/obj/Debug/Isometric Game.pdb
