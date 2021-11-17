@@ -1,0 +1,8 @@
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/obj/Debug/Screen Space Shaders.csprojAssemblyReference.cache
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/obj/Debug/Screen Space Shaders.AssemblyInfoInputs.cache
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/obj/Debug/Screen Space Shaders.AssemblyInfo.cs
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/obj/Debug/Screen Space Shaders.csproj.CoreCompileInputs.cache
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/bin/Debug/Screen Space Shaders.dll
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/bin/Debug/Screen Space Shaders.pdb
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/obj/Debug/Screen Space Shaders.dll
+/home/fdeng/Projects/godot-demo-projects/2d/screen_space_shaders/.mono/temp/obj/Debug/Screen Space Shaders.pdb
