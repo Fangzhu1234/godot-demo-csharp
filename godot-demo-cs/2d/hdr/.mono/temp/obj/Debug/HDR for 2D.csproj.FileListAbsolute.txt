@@ -1,0 +1,9 @@
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\bin\Debug\HDR for 2D.dll
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\bin\Debug\HDR for 2D.pdb
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.csproj.AssemblyReference.cache
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.AssemblyInfoInputs.cache
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.AssemblyInfo.cs
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.csproj.CoreCompileInputs.cache
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.dll
+C:\Users\dengf\Documents\GodotProjects\godot-demo-projects-master\2d\hdr\.mono\temp\obj\Debug\HDR for 2D.pdb
